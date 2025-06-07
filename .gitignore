@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+arena_example
+*.o
+*.exe
+
+# Optional: editor/IDE files
+*.swp
+*.bak
+*.log
+.vscode/
+*.DS_Store
