@@ -1,5 +1,3 @@
-// https://grok.com/share/c2hhcmQtMg%3D%3D_f50ca157-a7e2-477a-88bf-e5e41b68ec38
-
 #include <stdint.h>
 #include <stddef.h>
 #include <stdio.h>
